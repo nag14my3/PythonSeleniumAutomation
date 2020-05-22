@@ -1,0 +1,13 @@
+2020-05-21 19:13:44,329,329 INFO     [UIPage:12] Script has started
+2020-05-21 19:13:44,329,329 INFO     [UIPage:44] Radio Button2 is selected from Radio button example
+2020-05-21 19:13:44,329,329 INFO     [UIPage:53] Indonesia is selected from suggestion drop down
+2020-05-21 19:13:44,329,329 INFO     [UIPage:60] option2 is selected from the dropdown in DropDown Example
+2020-05-21 19:13:44,330,330 INFO     [UIPage:70] Option2 and Option3 is selected from Checkbox Example
+2020-05-21 19:13:44,330,330 INFO     [UIPage:83] Clicked on Alert button and name is displayed in Alert pop up
+2020-05-21 19:13:44,330,330 INFO     [UIPage:96] Clicked on Alert button and name is displayed in and Dismissed
+2020-05-21 19:13:44,330,330 INFO     [UIPage:108] New Window is Opened and asserted the Title
+2020-05-21 19:13:44,330,330 INFO     [UIPage:119] New Tab is Opened and asserted the Title
+2020-05-21 19:13:44,330,330 INFO     [UIPage:132] Name is entered in Text box and asserted the that hide box is displyed +or not and asserted the name after text box is displayed
+2020-05-21 19:13:44,330,330 INFO     [UIPage:152] WebTable is handled
+2020-05-21 19:13:44,330,330 INFO     [UIPage:167] Mouse Hover button is verified
+2020-05-21 19:13:44,330,330 INFO     [UIPage:178] Successfully switched to frame and number of links present in the frame are displayed
